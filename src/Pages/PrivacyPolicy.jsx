@@ -1,0 +1,10 @@
+export default function PrivacyPolicy() {
+    return (
+        <div className="privacy-page">
+            <h2>Privacy Policy</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor sit amet sapien vitae tincidunt. Nam diam odio, interdum ac fermentum eu, aliquet ut eros. Nullam eget vehicula tellus. Vestibulum hendrerit ac velit at tempor. Donec arcu magna, suscipit quis tristique in, tincidunt non enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut egestas leo dapibus lectus fermentum, ut volutpat ante luctus. Proin consequat tincidunt rhoncus. Morbi iaculis lectus eget consequat facilisis. Cras at condimentum erat. Maecenas facilisis, velit at aliquam faucibus, est libero lacinia lorem, nec porta risus nunc non metus.</p>
+            <p>Proin in pharetra neque, nec mattis odio. Mauris non pellentesque nunc. Sed ut mauris a enim semper dictum. Cras gravida sem velit, et semper est pretium eget. Aliquam sit amet lacus mauris. Morbi eget justo eget nibh fermentum sollicitudin. Pellentesque enim ex, tincidunt quis arcu in, tincidunt accumsan augue. Proin volutpat augue id turpis faucibus, non condimentum sapien imperdiet. Duis mollis metus et nulla tincidunt commodo. Vestibulum semper ex condimentum, aliquet magna vitae, consectetur dui. Phasellus id sem in orci scelerisque condimentum at sed diam. Cras bibendum neque ut dui semper consequat. Suspendisse viverra justo vel suscipit posuere. Etiam eu risus nec arcu elementum vestibulum.</p>
+            <p>Morbi rhoncus at risus sit amet posuere. Sed in dui et tellus feugiat fermentum sit amet nec orci. Donec id mattis purus. Aenean consequat porttitor odio non aliquam. Nunc eu urna at lorem suscipit pharetra vel nec purus. Integer massa risus, vehicula quis vehicula sed, aliquet a ipsum. Vestibulum varius ornare erat. Sed gravida malesuada magna, ut convallis quam egestas nec. Donec ac arcu non tellus vestibulum interdum vitae non ligula. Proin massa metus, aliquet vel pharetra id, iaculis ac velit.</p>
+        </div>
+    )
+}
